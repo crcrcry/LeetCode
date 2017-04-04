@@ -2,7 +2,7 @@
 ## 目的
 - 通过 LeetCode 熟练 JavaScript 的使用。
 - 通过 LeetCode 熟练算法与数据结构。
-- 通过 LeetCode 锻炼思考能力。
+- 通过 LeetCode 锻炼思考分析能力。
 
 ## JavaScript 编程标准
 1. 代码：可用 -> 健壮 -> 可靠 -> 宽容
