@@ -1,6 +1,6 @@
-# LeetCode-in-JavaScript
+# LeetCode
 ## 目的
-- 通过 LeetCode 熟练 JavaScript 的使用。
+- 通过 LeetCode 熟练 C+=、JavaScript 等基础语言的使用。
 - 通过 LeetCode 熟练算法与数据结构。
 - 通过 LeetCode 锻炼思考分析能力。
 
@@ -19,3 +19,5 @@
 	1. 对错误输入类型可否处理
 	2. 注释是否足够明晰
 	3. 需求变更后是否可以快速调整
+	
+## C++ 编程规范
