@@ -1,6 +1,6 @@
 # LeetCode
 ## 目的
-- 通过 LeetCode 熟练 JavaScript、Go 等基础语言的使用。
+- 通过 LeetCode 熟练 JavaScript、Go、Python 等基础语言的使用。
 - 通过 LeetCode 熟练算法与数据结构。
 - 通过 LeetCode 锻炼思考分析能力。
 
