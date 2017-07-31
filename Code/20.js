@@ -1,7 +1,10 @@
 /**
  * @param {string} s
  * @return {boolean}
+ * 
  * 通过堆栈，不断摘除字符串中的正确的括号
+ * 尝试了 ES6 Array.includes()
+ * 
  * 两种方法原理一样
  */
 var isValid = function(s) {
@@ -42,7 +45,9 @@ function eliminate(arr){
 /**
  * @param {string} s
  * @return {boolean}
+ * 
  * 利用正则表达式，不断摘除字符串中的正确的括号
+ * replace 函数、正则，更加熟悉
  */
 // var isValid = function(s) {
 //     while(1){
